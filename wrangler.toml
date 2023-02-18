@@ -1,0 +1,6 @@
+name = "hono-app"
+main = "src/index.ts"
+compatibility_date = "2023-02-18"
+
+[site]
+bucket = "./assets"
